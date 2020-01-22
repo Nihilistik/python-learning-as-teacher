@@ -1,19 +1,3 @@
-b = False
-print(b)
-print(type(b))
-x = 5
-xstr = "5"
-# Ints
-print(x)
-print(type(x))
-# Strs
-print(xstr)
-print(type(xstr))
-
-# Cast from str -> int
-print(int(xstr))
-print(type(int(xstr)))
-exit()
 
 LIMITE_SUPERIOR_ANOS = 5000
 ano_inferior = 1400
